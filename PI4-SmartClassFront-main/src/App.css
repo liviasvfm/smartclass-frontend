@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+@theme {
+  --color-senac-blue: #004a8d;       /* Azul institucional */
+  --color-senac-blue-hover: #00366b; /* Azul levemente mais escuro para hover */
+  --color-senac-orange: #f26f21;     /* Laranja institucional */
+  --color-senac-orange-hover: #d95e1a; /* Laranja para hover */
+  
+  --color-senac-bg: #f3f4f6;         /* Cinza bem claro para o fundo da tela */
+  --color-senac-card: #ffffff;       /* Branco puro para os cards */
+  
+  --color-senac-text: #1f2937;       /* Grafite escuro para textos principais */
+  --color-senac-muted: #6b7280;      /* Cinza médio para textos secundários */
+}
